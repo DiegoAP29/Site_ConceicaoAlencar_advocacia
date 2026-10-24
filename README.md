@@ -1,2 +1,2 @@
 # Site_ConceicaoAlencar_advocacia
-Site de advocacia para a advogada Conceição Alencar, o site foi feito com IA(predominantemente o Claude
+Site de advocacia para a advogada Conceição Alencar, o site foi feito com IA(predominantemente o Claude), e utiliza elementos do HTML e CSS.
